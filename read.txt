@@ -1,0 +1,6 @@
+Un crontab (ou cron) est un programme
+(table de planification) qui permet aux utilisateurs des systemes
+Unix d’executer automatiquement des scripts, des commandes ou des logiciels à une date et une heure spécifiée a l'avance, ou selon un cycle defini a l’avance.
+C'est un daemon, un programme qui s'execute en arriere plan.
+Crontab est le nom du programme sous Unix (et Linux) qui permet d'editer des tables de configuration du programme cron.
+Ces tables specifient les taches a executer et leur horaire d'execution avec eventuellement une periodicite.
